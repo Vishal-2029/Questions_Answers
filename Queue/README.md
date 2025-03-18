@@ -6,7 +6,7 @@
     
   ```
   - Enqueue                        - Dequeue
-    ` '-----> For Enter of item `    ` '-----> For Delete of item `
+      '-----> For Enter of item        '-----> For Delete of item 
   ```
 
   Types of Implementation 
