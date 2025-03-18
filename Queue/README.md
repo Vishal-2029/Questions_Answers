@@ -10,7 +10,8 @@
         1. Array
         2. Linked list 
 
-  ## Real Time example                         |    ## Programing Example 
+ ```bash
+  Real Time example                            |                Programing Example 
                                                |
           ____                                 |         _____________________________________
          | ** | <--- Ticket Window             |        |    |  10  |  20  |  30  |  40  |    |
@@ -20,3 +21,4 @@
            *                                   |        Front = 1
            *    <----Rear                      |        Rear  = 4
                                                |        N     = 6 (Maximam Queue)
+```
