@@ -25,8 +25,8 @@
     ```
      Synchronous Communication                 Asynchronous Communication
       |  |                                         |   |
-      |  |__ __ HTTP/REST APIs                     |   |__ __ Message Brokers
-      |__ __ gRPC                                  |__ __ Event-Driven Architecture
+      |  '----> HTTP/REST APIs                     |   '----> Message Brokers
+      '----> gRPC                                  '----> Event-Driven Architecture
        etc...                                      etc...
     ```
 
