@@ -5,5 +5,9 @@
   - How to Workes
     
   
-   | client | ---> | HTTP API | ---> | Queue | ---> | Worker | ---> | DB |
-   
+   | client | ---> | | ---> |  ---> |  ---> | 
+
+| **Component** | **Description**                                          |
+|---------------|----------------------------------------------------------|
+| Client        |  HTTP API                     |Queue | Worker | DB |
+
