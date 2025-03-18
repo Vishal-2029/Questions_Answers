@@ -9,3 +9,5 @@
 `4. What is MicroServices Architecture?`
 
 `5. What is Queue?`
+
+`6. What is Queue Wprkers pattern?`
