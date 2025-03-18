@@ -1,28 +1,36 @@
-Architecture
-What is Monolithic Architecture?
-If We have develop any application, than we develop those application as asinle unit.That mans Thay are tightly integrated into a single codebase.
+## Architecture 
 
-Benifit of Monolithic Architecture.
+ ## What is Monolithic Architecture?
+   
+   `If We have develop any application, than we develop those application as asinle unit.That mans Thay are tightly integrated into a single codebase.`
 
-Easier to Develop,Easier to Manage etc...
+  - Benifit of Monolithic Architecture.
 
-Disadvantages
+    `Easier to Develop`,`Easier to Manage` etc...
 
-Redeployment,Sacling Limitations,Lots of dependence etc...
+  - Disadvantages
 
-What is Microsevices Architecture?
-Microservices are an architectural approach to developing software applications as a collection of small, independent services that communicate with each other over a network.
+    `Redeployment`,`Sacling Limitations`,`Lots of dependence` etc...
 
-Benifit of Microsevices Architecture
-Independent Deployment,Flexible Scaling,technology Flexibility etc..
+ ## What is Microsevices Architecture?
 
-How to interact with each other?
+   `Microservices are an architectural approach to developing software applications as a collection of small, independent services that communicate with each other over a network.`
 
- Synchronous Communication                 Asynchronous Communication
-  |  |                                         |   |
-  |  '----> HTTP/REST APIs                     |   '----> Message Brokers
-  '----> gRPC                                  '----> Event-Driven Architecture
-   etc...                                      etc...
-Disadvantages
+  -  Benifit of Microsevices Architecture
 
-Complex To develop,management overhead,High Infra Costs etc..
+   `Independent Deployment`,`Flexible Scaling`,`technology Flexibility` etc..
+
+  - How to interact with each other?
+
+    ```
+     Synchronous Communication                 Asynchronous Communication
+      |  |                                         |   |
+      |  '----> HTTP/REST APIs                     |   '----> Message Brokers
+      '----> gRPC                                  '----> Event-Driven Architecture
+       etc...                                      etc...
+    ```
+
+    - Disadvantages
+
+      `Complex To develop`,`management overhead`,`High Infra Costs` etc..
+
