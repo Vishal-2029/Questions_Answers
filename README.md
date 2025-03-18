@@ -10,4 +10,4 @@
 
 `5. What is Queue?`
 
-`6. What is Queue Wprkers pattern?`
+`6. What is Queue Workers pattern?`
