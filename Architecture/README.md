@@ -2,7 +2,7 @@
 
  ## What is Monolithic Architecture?
    
-   `If We have develop any application, than we develop those application as asinle unit.That mans Thay are tightly integrated into a single codebase.`
+   `If We have develop any application, than we develop those application as a single unit.That mans Thay are tightly integrated into a single codebase.`
 
   - Benifit of Monolithic Architecture.
 
